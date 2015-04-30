@@ -15,5 +15,11 @@ public class Animasi {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+  
+    int a,b,c;
+    a=2;
+    b=4;
+    c=a+b;
+        System.out.println("hasil" +c);
     }
 }
